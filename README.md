@@ -1,0 +1,1 @@
+Hello this repo is all about how to work with github and git commands
